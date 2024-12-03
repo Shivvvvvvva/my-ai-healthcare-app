@@ -1,17 +1,12 @@
-// src/App.js
 import React from 'react';
 import './App.css';
-import Dashboard from './components/Dashboard';  // Import your Dashboard component
+import Dashboard from './components/Dashboard'; // Adjust based on your components
 
 function App() {
     return (
         <div className="App">
-            <header className="App-header">
-                <h1>AI-Driven Healthcare Platform</h1> {/* Platform Title */}
-            </header>
-            <main>
-                <Dashboard />  {/* Add the Dashboard Component to display health insights */}
-            </main>
+            <h1>AI-Driven Healthcare Platform</h1>
+            <Dashboard /> {/* Ensure this component renders */}
         </div>
     );
 }

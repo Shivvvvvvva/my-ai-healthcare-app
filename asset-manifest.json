@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-ai-healthcare-app/static/css/main.f855e6bc.css",
+    "main.js": "/my-ai-healthcare-app/static/js/main.1c89ffed.js",
+    "static/js/453.80304955.chunk.js": "/my-ai-healthcare-app/static/js/453.80304955.chunk.js",
+    "index.html": "/my-ai-healthcare-app/index.html",
+    "main.f855e6bc.css.map": "/my-ai-healthcare-app/static/css/main.f855e6bc.css.map",
+    "main.1c89ffed.js.map": "/my-ai-healthcare-app/static/js/main.1c89ffed.js.map",
+    "453.80304955.chunk.js.map": "/my-ai-healthcare-app/static/js/453.80304955.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1c89ffed.js"
+  ]
+}
